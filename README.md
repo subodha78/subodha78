@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p> -->
 <!-- <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
-<p align="center"><img src="https://github.com/tharushatheekshana/tharushatheekshana/blob/0a6374fdf3f3706edcd3939f2713187091fe8760/tharushatheekshana/header.png"></p>
+
 
 <h1>Statistics</h1>
 <p align="center"><b>Visitor's Count</b></p>
